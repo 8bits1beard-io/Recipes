@@ -1,6 +1,6 @@
 # Recipes
 
-A small, growing collection of original recipes by **Joshua Walderbach** under [8bits1beard LLC](https://github.com/8bits1beard-io).
+A small, growing collection of personal recipes by **Joshua Walderbach**.
 
 Midwest comfort food, mostly — simple to make, honest ingredients, and written so you can cook by volume (cups, teaspoons) **or** by weight (ounces), whichever you prefer.
 
@@ -29,4 +29,4 @@ This is a personal recipe collection. To add a new recipe, drop a new `.md` file
 
 ## License
 
-All recipes © Joshua Walderbach / 8bits1beard LLC. Feel free to cook them, share them, and feed people you like.
+All recipes © Joshua Walderbach. Feel free to cook them, share them, and feed people you like.
