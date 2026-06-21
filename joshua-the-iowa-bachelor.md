@@ -19,8 +19,8 @@ A one-skillet (plus a noodle pot) Midwest comfort dish: spicy pork sausage, fire
 - 1 cup shredded sharp cheddar
 - 1 tbsp yellow mustard (or Dijon)
 - 1/2 tsp smoked paprika (optional)
-- 1 tsp kosher salt
 - 1/2 tsp black pepper
+- Salt, to taste (go easy — the sausage and cheese are already salty)
 
 ---
 
@@ -32,7 +32,7 @@ A one-skillet (plus a noodle pot) Midwest comfort dish: spicy pork sausage, fire
 
 3. **Cook the aromatics.** Add the onion to the sausage and rendered fat. Cook, stirring, until soft and translucent, then add the garlic and cook about 30 seconds more until fragrant.
 
-4. **Char the corn.** Stir in the drained corn and spread it out, letting it sit undisturbed for a bit to pick up some char. Season the whole skillet with the smoked paprika, salt, and pepper.
+4. **Char the corn.** Stir in the drained corn and spread it out, letting it sit undisturbed for a bit to pick up some char. Season the whole skillet with the smoked paprika and pepper.
 
 5. **Build the creamy sauce.** Lower the heat to medium-low. Add the cubed cream cheese and mustard along with a splash of the reserved noodle water. Stir continuously, breaking up the cream cheese as it softens, until it melts down into a smooth sauce — give it a minute or two and add more noodle water if it's too thick. Once smooth, add the cheddar and stir until melted.
 
