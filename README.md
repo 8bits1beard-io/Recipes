@@ -13,7 +13,8 @@ Midwest comfort food, mostly — simple to make, honest ingredients, and written
 | Recipe | Description |
 | --- | --- |
 | [Joshua The Iowa Bachelor (Iowa Bache)](./joshua-the-iowa-bachelor.md) | A one-skillet dish of spicy pork sausage, fire-roasted corn, and wide noodles in a light creamy cheddar sauce with a Midwest touch of mustard. |
-| [Iowa Meatloaf](./iowa-meatloaf.md) | A beef-and-pork blend studded with sweet corn, bound with crushed crackers and a milk panade, finished with a classic brown-sugar ketchup glaze. |
+| [Cedar Rapids Meatloaf](./cedar-rapids-meatloaf.md) | A beef-and-pork blend studded with sweet corn, bound with Quaker quick oats (a nod to Cedar Rapids) and a milk panade, finished with a classic brown-sugar ketchup glaze. |
+| [Iowa Baked Spaghetti](./iowa-baked-spaghetti.md) | Church-potluck baked spaghetti: a pork-and-beef meat sauce with charred sweet corn and a touch of brown sugar, a creamy cream-cheese-and-sour-cream middle layer, and a melty mozzarella top. |
 
 ---
 
