@@ -1,4 +1,4 @@
-# Joshua The Iowa Bachelor
+# Joshua The Iowa Bachelor (Iowa Bache)
 
 *A recipe by Joshua Walderbach*
 
@@ -11,13 +11,13 @@ A one-skillet (plus a noodle pot) Midwest comfort dish: spicy pork sausage, fire
 ## Ingredients
 
 - 12 oz wide egg noodles
-- 1 lb spicy pork sausage
+- 1 lb (16 oz) spicy pork sausage
 - 1 can (15 oz) fire-roasted corn, drained
-- 1 medium yellow onion, diced
+- 1 medium yellow onion, diced (~5 oz)
 - 3 garlic cloves, minced
 - 4 oz cream cheese, cut into small cubes (softened at room temp if possible)
-- 1 cup shredded sharp cheddar
-- 1 tbsp yellow mustard (or Dijon)
+- 1 cup (4 oz) shredded sharp cheddar
+- 1 tbsp (0.5 fl oz) yellow mustard (or Dijon)
 - 1/2 tsp smoked paprika (optional)
 - 1/2 tsp black pepper
 - Salt, to taste (go easy — the sausage and cheese are already salty)
