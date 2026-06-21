@@ -41,11 +41,13 @@ An Iowa-inspired meatloaf named for Cedar Rapids — home of Quaker Oats, whose 
 
 3. **Mix the loaf.** To the soaked oats, add the ground beef, ground pork, eggs, the cooked onion and garlic, corn, Worcestershire, salt, pepper, smoked paprika, and cheddar. Mix gently with your hands just until combined — stop as soon as it comes together, since overworking makes the loaf dense and rubbery.
 
-4. **Shape the loaf.** Transfer the mixture to a parchment-lined sheet pan and shape it into a loaf about 9 by 5 inches (or pack it into a loaf pan). A free-form loaf gives you more surface for the glaze to caramelize.
+4. **Shape the loaf.** Two good options:
+   - **Sheet pan (free-form):** Transfer the mixture to a parchment-lined rimmed sheet pan and shape it into a loaf about 9 by 5 inches. The exposed sides give you more surface for the glaze to caramelize.
+   - **Loaf pan with a draining trivet:** If your loaf pan has a perforated insert/trivet, set it in the pan, lightly grease the top, and shape the meat onto it. The fat drips through the holes as it bakes, so the loaf stays up out of the grease. *Do not line the trivet with parchment or foil — that blocks the drainage.*
 
 5. **Glaze it.** Whisk together the ketchup, brown sugar, cider vinegar, and mustard until smooth. Brush about half of the glaze evenly over the top and sides of the loaf.
 
-6. **Bake.** Bake at 350°F for about 45 minutes, then brush on the remaining glaze and bake another 10–15 minutes, until the internal temperature reaches 160°F at the center.
+6. **Bake.** Bake at 350°F for about 45 minutes, then brush on the remaining glaze and bake another 10–15 minutes, until the internal temperature reaches 160°F at the center. If your loaf sits low and wide (as it will in a longer or shallower pan), start checking the temperature around 40 minutes — a thinner loaf cooks faster, so go by the thermometer, not the clock.
 
 7. **Rest, then slice.** Let the meatloaf rest for 10 minutes before slicing. This lets the juices redistribute so it holds together instead of falling apart on the knife.
 
@@ -56,6 +58,6 @@ An Iowa-inspired meatloaf named for Cedar Rapids — home of Quaker Oats, whose 
 - **Iowa flourish:** Crumble in (or top with) Maytag blue cheese — a genuine Iowa specialty made in Newton — if you're a blue cheese person.
 - Prefer a different binder? 1 cup crushed saltines or crumbled cornbread works in place of the oats (cornbread leans even further into the corn theme).
 - Keep the corn to about 3/4 cup. Too many kernels create weak seams that make the loaf crumble when sliced.
-- Shaping free-form on a sheet pan gives you more caramelized glaze surface; a loaf pan gives softer, moister edges — your call.
+- A free-form loaf on a sheet pan gives more caramelized glaze surface; a loaf pan gives a neater classic shape, and one with a draining trivet keeps the loaf from sitting in its own grease — your call.
 - Leftovers make a fantastic meatloaf sandwich, which is about as Midwest as it gets.
 - Safe internal temp for a beef-pork blend is **160°F**.
