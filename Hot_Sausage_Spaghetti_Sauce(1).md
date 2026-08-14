@@ -29,17 +29,17 @@
 
    Let the sausage sit against the hot pan for short stretches before stirring so some pieces develop good browning rather than simply steaming.
 
-   Cook until no pink remains.
+   Cook until no pink remains. **Leave the browned sausage in the pot. It stays in the sauce from this point forward.**
 
 2. **Manage the rendered fat.**  
-   If there is a large amount of grease in the pan, spoon off the excess, leaving about **1–2 tablespoons** behind for flavor.
+   With the sausage still in the pot, spoon off excess grease if necessary, leaving about **1–2 tablespoons** of rendered fat behind for flavor.
 
    If the pan is relatively dry, add up to **1 tablespoon / 15 mL olive oil**.
 
-3. **Cook the onion.**  
+3. **Cook the onion with the sausage.**  
    Reduce the heat to **medium**.
 
-   Add the chopped yellow onion. Cook, stirring occasionally, until the onion is **very soft and just beginning to turn lightly golden**, about **5–10 minutes**.
+   Add the chopped yellow onion **directly to the browned sausage in the pot**. Cook, stirring occasionally, until the onion is **very soft and just beginning to turn lightly golden**, about **5–10 minutes**.
 
    Because sausage can already contain significant salt, do **not** add extra salt at this stage.
 
