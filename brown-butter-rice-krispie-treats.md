@@ -6,18 +6,20 @@ A rich, gooey, crisp Rice Krispie treat built around browned butter, toasted mil
 
 **Yield:** one 9x13-inch pan (~24 bars) &nbsp;|&nbsp; **Active time:** ~25 minutes &nbsp;|&nbsp; **Total time:** ~1 hour 10 minutes
 
+> **Weigh, don't scoop.** The gram and milliliter amounts are the recipe. The cup and spoon measures in parentheses are approximate conversions for when no scale is available — cereal and marshmallows are especially unreliable by volume, since how much you settle the cup changes the amount considerably.
+
 ---
 
 ## Ingredients
 
-- ~8 cups (7 oz / 196–200 g) Rice Krispies cereal
-- 15 oz (430 g) fresh mini marshmallows, divided
-  - 12 oz (345 g) for melting
-  - 3 oz (85 g) reserved for folding in at the end
-- 8 tbsp (1 stick / 4 oz / 113 g) unsalted butter
-- 3 tbsp (~1 oz / 25 g) whole milk powder
-- 1 tsp (5 mL) pure vanilla extract
-- 1/2 tsp (2 g) kosher salt
+- 196–200 g (~8 cups) Rice Krispies cereal
+- 430 g (15 oz) fresh mini marshmallows, divided
+  - 345 g (12 oz) for melting
+  - 85 g (3 oz) reserved for folding in at the end
+- 113 g (8 tbsp / 1 stick / 4 oz) unsalted butter
+- 25 g (~3 tbsp) whole milk powder
+- 5 mL (1 tsp) pure vanilla extract
+- 2 g (~1/2 tsp) kosher salt
 
 ---
 
@@ -35,25 +37,25 @@ A rich, gooey, crisp Rice Krispie treat built around browned butter, toasted mil
 
 2. **Measure everything before starting.** Have the cereal, marshmallows, milk powder, vanilla, and salt ready. Once the marshmallow mixture is finished, the recipe moves quickly.
 
-3. **Reserve some marshmallows.** Set aside **3 oz (85 g)** of the mini marshmallows. These will be folded in at the end to create soft marshmallow pockets.
+3. **Reserve some marshmallows.** Set aside **85 g** of the mini marshmallows. These will be folded in at the end to create soft marshmallow pockets.
 
-4. **Brown the butter.** Melt **8 tbsp (1 stick / 113 g)** unsalted butter over **medium-low heat** in a light-colored or stainless saucepan. Continue cooking, stirring frequently, until the water has mostly cooked off, the milk solids are amber-brown, and the butter smells nutty.
+4. **Brown the butter.** Melt **113 g (1 stick)** unsalted butter over **medium-low heat** in a light-colored or stainless saucepan. Continue cooking, stirring frequently, until the water has mostly cooked off, the milk solids are amber-brown, and the butter smells nutty.
 
    Watch closely near the end. Brown butter can move from browned to burned very quickly.
 
-5. **Toast the milk powder.** Reduce the heat to **low** and stir in **3 tbsp (25 g)** whole milk powder. Cook for about **1–2 minutes**, stirring constantly, until the milk powder becomes golden to copper-colored and smells toasted.
+5. **Toast the milk powder.** Reduce the heat to **low** and stir in **25 g** whole milk powder. Cook for about **1–2 minutes**, stirring constantly, until the milk powder becomes golden to copper-colored and smells toasted.
 
-6. **Begin melting the marshmallows.** Add **12 oz (345 g)** mini marshmallows and **1/2 tsp (2 g)** kosher salt. Keep the heat low and stir gently.
+6. **Begin melting the marshmallows.** Add **345 g** mini marshmallows and **2 g** kosher salt. Keep the heat low and stir gently.
 
 7. **Finish melting off heat.** When the marshmallows are about **75–80% melted**, remove the pot from the heat. Continue stirring off heat until the mixture becomes smooth.
 
    > Finishing the melt with residual heat reduces unnecessary moisture loss, which helps keep the finished treats soft instead of hard.
 
-8. **Add vanilla.** Stir in **1 tsp (5 mL)** pure vanilla extract.
+8. **Add vanilla.** Stir in **5 mL (1 tsp)** pure vanilla extract.
 
-9. **Add the cereal.** Immediately fold in **~8 cups (196–200 g)** Rice Krispies cereal. Fold only until the cereal is evenly coated.
+9. **Add the cereal.** Immediately fold in **196–200 g** Rice Krispies cereal. Fold only until the cereal is evenly coated.
 
-10. **Add the reserved marshmallows.** Fold in the reserved **3 oz (85 g)** mini marshmallows with just a few turns. Do not try to melt them completely.
+10. **Add the reserved marshmallows.** Fold in the reserved **85 g** mini marshmallows with just a few turns. Do not try to melt them completely.
 
 11. **Transfer to the pan.** Scrape the mixture into the prepared 9x13-inch pan.
 
@@ -74,7 +76,7 @@ A rich, gooey, crisp Rice Krispie treat built around browned butter, toasted mil
 - **Low heat** and finishing the marshmallow melt off heat reduce moisture loss and prevent hard, brittle treats.
 - **Reserved marshmallows** create soft, gooey pockets instead of simply increasing the overall binder.
 - **Gentle pressing** preserves the cereal's internal air structure and keeps the bars light rather than dense.
-- Cup and ounce measures are convenience conversions; **the gram weights are authoritative**, especially for the marshmallow split.
+- The **345 g / 85 g marshmallow split** is the ratio the whole recipe turns on, and it's the measurement most worth getting right. Volume can't resolve it — bagged mini marshmallows settle differently every time.
 - The cereal is **not pre-toasted** in this version. The browned butter and toasted milk powder already provide strong toasted flavor without adding another drying step.
 
 ---

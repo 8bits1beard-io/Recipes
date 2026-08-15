@@ -45,6 +45,7 @@ Doctored Jiffy cornbread baked up moist, rich, and lightly sweet — sour cream 
 
 ## Notes
 
+- This one stays in volume measures on purpose: the part of a cornbread that actually demands precision — the flour, cornmeal, and leavening ratio — comes pre-portioned in the Jiffy boxes, and everything you add is either a liquid (accurate by volume) or forgiving. Weigh the sour cream and honey if you want the closest repeat, since both are easy to over- or under-scoop.
 - The milk is dropped to **1/2 cup** (from the **2/3 cup** two boxes would normally call for) on purpose — the sour cream and melted butter add their own moisture, so the full amount would make the batter too wet.
 - It bakes at **375°F (190°C)** instead of the **400°F (205°C)** on the box, since the richer, sweeter batter browns faster.
 

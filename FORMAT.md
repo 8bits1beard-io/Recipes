@@ -73,7 +73,14 @@ How to keep it and how to bring it back.
 
 **Every ingredient carries both systems** — imperial (cups, tablespoons, ounces, pounds) and metric (grams, milliliters) — so the recipe is cookable either way. This includes spices and baking ingredients. Use `~` for approximations. Use `###` component headings only when the recipe has genuinely separate parts (loaf and glaze, cake and frosting).
 
-In baking recipes, cup measures are convenience conversions and the gram weights are authoritative; say so in `Notes`.
+**Baking recipes lead with metric.** Weight is the accurate measure and volume is the fallback, so flour, sugar, cocoa, leaveners, and anything else where a scooped cup varies go **grams first, volume in parentheses**:
+
+```
+- 220 g (~1 3/4 cups) all-purpose flour
+- 9 g (2 tsp) baking soda
+```
+
+Open such a recipe with a callout under the meta line stating that the weights are the recipe and the volume measures are approximate conversions, and keep the metric amount first in the instruction steps too. Savory recipes stay imperial-first — a quarter-ounce of onion never ruined anything.
 
 **Instruction steps.** Numbered, starting with a bolded imperative name on the same line as the text: `1. **Brown the sausage.** Heat a large...`. Say why a step matters when it isn't obvious. Multi-beat steps may use indented follow-on paragraphs; blockquotes (`>`) call out a key technique insight.
 
