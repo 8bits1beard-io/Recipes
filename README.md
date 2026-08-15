@@ -24,20 +24,28 @@ Midwest comfort food, mostly — simple to make, honest ingredients, and written
 | [Hot Sausage Spaghetti Sauce](./hot-sausage-spaghetti-sauce.md) | Hot ground sausage browned for flavor, then simmered into a whole-peeled-tomato sauce with caramelized tomato paste, garlic, oregano, and fresh basil. Finished with optional butter. |
 | [Meatless Spaghetti Sauce](./meatless-spaghetti-sauce.md) | The same slow-simmered tomato sauce without the meat — olive oil, onion, darkened tomato paste, garlic, red pepper flakes, and fresh basil, finished with butter. |
 
-Both sauce recipes end with a **"For the Best Spaghetti"** section on finishing the pasta in the sauce with a splash of starchy pasta water.
+Both sauce recipes end with a **To Serve** section on finishing the pasta in the sauce with a splash of starchy pasta water.
+
+### 🍫 Sweets
+
+| Recipe | Description |
+| --- | --- |
+| [Shot in the Dark Cake](./shot-in-the-dark-cake.md) | A moist 9x13-inch chocolate sheet cake with buttermilk, canola oil, and hot coffee, built on a cocoa-blooming step for deeper chocolate flavor and topped with dark chocolate fudge frosting. |
+| [Brown Butter Rice Krispie Treats](./brown-butter-rice-krispie-treats.md) | Rich, gooey, crisp treats built on browned butter and toasted whole milk powder, with reserved marshmallows folded in at the end for soft pockets throughout. |
 
 ---
 
 ## About these recipes
 
-- **Two ways to measure.** Each ingredient lists volume measurements alongside weight/fluid ounces (and grams/milliliters in the newer recipes), so scale-cookers and cup-cookers can both follow along.
+- **Two ways to measure.** Ingredients list volume measurements alongside weight in ounces and grams, so scale-cookers and cup-cookers can both follow along. The baking recipes stay in grams, where precision actually matters.
+- **One shared format.** Every recipe follows the same structure — see [FORMAT.md](./FORMAT.md).
 - **Single-pan where possible.** The emphasis is on weeknight-simple cooking with minimal cleanup.
 - **Iowa-rooted.** Pork, sweet corn, and dairy show up a lot here on purpose.
 - **Taste as you go.** The sauces in particular are written to be seasoned at the end, after the sauce has reduced and concentrated.
 
 ## Contributing
 
-This is a personal recipe collection. To add a new recipe, drop a new `.md` file in the repo root following the format of the existing ones (description, ingredients, instructions, swaps & tips) and add a row to the matching table above.
+This is a personal recipe collection. To add a new recipe, drop a new `.md` file in the repo root following the structure in [FORMAT.md](./FORMAT.md), then add a row to the matching table above.
 
 ## License
 
