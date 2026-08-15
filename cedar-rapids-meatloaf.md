@@ -11,8 +11,8 @@ An Iowa-inspired meatloaf named for Cedar Rapids — home of Quaker Oats, whose 
 ## Ingredients
 
 ### Loaf
-- 1 lb (16 oz / 454 g) ground beef, 80/20
-- 1 lb (16 oz / 454 g) ground pork
+- 1 lb (454 g) ground beef, 80/20
+- 1 lb (454 g) ground pork
 - 3/4 cup (~2 oz / 60 g) Quaker quick oats
 - 1/2 cup (120 mL) whole milk
 - 2 large eggs
@@ -20,16 +20,16 @@ An Iowa-inspired meatloaf named for Cedar Rapids — home of Quaker Oats, whose 
 - 1 small yellow onion (~4 oz / 115 g), finely diced
 - 2 garlic cloves, minced
 - 1 tbsp (15 mL) Worcestershire sauce
-- 1 1/2 tsp kosher salt
-- 1/2 tsp black pepper
-- 1/2 tsp smoked paprika, optional
+- 1 1/2 tsp (~7 g) kosher salt
+- 1/2 tsp (~1 g) black pepper
+- 1/2 tsp (~1 g) smoked paprika, optional
 - 1/2 cup (2 oz / 57 g) shredded sharp cheddar, optional
 
 ### Glaze
 - 1/2 cup (120 mL) ketchup
 - 3 tbsp (~1.5 oz / 40 g) brown sugar
 - 1 tbsp (15 mL) apple cider vinegar
-- 1 tsp yellow mustard
+- 1 tsp (5 mL) yellow mustard
 
 ---
 

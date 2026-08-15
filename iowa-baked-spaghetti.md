@@ -11,23 +11,23 @@ Iowa-style baked spaghetti, church-potluck style: a pork-and-beef meat sauce wit
 ## Ingredients
 
 ### Meat Sauce
-- 1 lb (16 oz / 454 g) ground beef, 80/20
-- 1 lb (16 oz / 454 g) ground pork
+- 1 lb (454 g) ground beef, 80/20
+- 1 lb (454 g) ground pork
 - 1 medium yellow onion (~5 oz / 140 g), diced
 - 3 garlic cloves, minced
 - 1 jar (24 oz / 680 g) marinara sauce
 - 3/4 cup (~4 oz / 113 g) sweet corn kernels, drained (fire-roasted if you like)
 - 1 tbsp (~0.5 oz / 13 g) brown sugar
-- 1 tbsp Italian seasoning
-- 1 tsp kosher salt
-- 1/2 tsp black pepper
+- 1 tbsp (~3 g) Italian seasoning
+- 1 tsp (~4–5 g) kosher salt
+- 1/2 tsp (~1 g) black pepper
 
 ### Cream Layer
 - 8 oz (227 g) cream cheese, softened
 - 1/2 cup (~4 oz / 120 g) sour cream
 
 ### Pasta and Topping
-- 1 lb (16 oz / 454 g) spaghetti
+- 1 lb (454 g) spaghetti
 - 2 cups (8 oz / 227 g) shredded mozzarella
 
 ---

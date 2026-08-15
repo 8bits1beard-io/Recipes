@@ -62,15 +62,18 @@ How to keep it and how to bring it back.
 
 **Sections.** `Ingredients`, `Instructions`, and `Storage` appear in every recipe. `Equipment`, `To Serve`, `Notes`, and `Swaps & Tips` are optional — include them when there's something real to say. Order is always the order above. Separate top-level sections with `---`.
 
-**Ingredient lines.** Amount first, conversion in parentheses, then the ingredient, then prep notes after a comma:
+**Ingredient lines.** Imperial amount first, metric in parentheses, then the ingredient, then prep notes after a comma:
 
 ```
 - 1 medium yellow onion (~5 oz / 140 g), diced
 - 1/2 cup (120 mL) whole milk
-- 240 mL hot brewed coffee
+- 1 3/4 cups (220 g) all-purpose flour
+- 1/2 tsp (~1 g) black pepper
 ```
 
-Give a metric conversion for every ingredient measured in volume or US weight. Use `~` for approximations. Gram-native baking recipes stay in grams and don't need invented cup measures. Use `###` component headings only when the recipe has genuinely separate parts (loaf and glaze, cake and frosting).
+**Every ingredient carries both systems** — imperial (cups, tablespoons, ounces, pounds) and metric (grams, milliliters) — so the recipe is cookable either way. This includes spices and baking ingredients. Use `~` for approximations. Use `###` component headings only when the recipe has genuinely separate parts (loaf and glaze, cake and frosting).
+
+In baking recipes, cup measures are convenience conversions and the gram weights are authoritative; say so in `Notes`.
 
 **Instruction steps.** Numbered, starting with a bolded imperative name on the same line as the text: `1. **Brown the sausage.** Heat a large...`. Say why a step matters when it isn't obvious. Multi-beat steps may use indented follow-on paragraphs; blockquotes (`>`) call out a key technique insight.
 

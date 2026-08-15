@@ -18,8 +18,8 @@ A one-skillet (plus a noodle pot) Midwest comfort dish: spicy pork sausage, fire
 - 4 oz (113 g) cream cheese, cut into small cubes (softened at room temp if possible)
 - 1 cup (4 oz / 113 g) shredded sharp cheddar
 - 1 tbsp (15 mL) yellow mustard, or Dijon
-- 1/2 tsp smoked paprika, optional
-- 1/2 tsp black pepper
+- 1/2 tsp (~1 g) smoked paprika, optional
+- 1/2 tsp (~1 g) black pepper
 - Salt, to taste — go easy, the sausage and cheese are already salty
 
 ---
